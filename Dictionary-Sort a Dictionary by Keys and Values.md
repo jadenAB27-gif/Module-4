@@ -30,9 +30,8 @@ To write a Python program that sorts a dictionary's:
 ---
 
 ## 🧪Program
-Add Code here
-
+<img width="800" height="277" alt="image" src="https://github.com/user-attachments/assets/cab3b5e0-dfcf-4640-8616-24f9094747ab" />
 ## Sample Output
-
+<img width="818" height="176" alt="image" src="https://github.com/user-attachments/assets/85286815-a98b-434a-baa2-a5449bf4224c" />
 ## Result
-
+<img width="818" height="176" alt="image" src="https://github.com/user-attachments/assets/636bd797-5fb0-4f57-bb03-0c78c1079b61" />
